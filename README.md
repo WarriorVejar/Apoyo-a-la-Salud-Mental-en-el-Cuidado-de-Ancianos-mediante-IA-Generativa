@@ -98,31 +98,31 @@ Control Humano: Mantener siempre la posibilidad de intervención humana, asegura
 
 ## **Técnica SCAMPER:**
 
-## **S - Sustituir (Substitute)**
+### **S - Sustituir (Substitute)**
 Sustituir cuidadores humanos por la IA en tareas rutinarias: La IA generativa podría asumir la responsabilidad de tareas rutinarias como la gestión de rutinas diarias, recordatorios de medicamentos, y actividades cognitivas, permitiendo que los cuidadores humanos se concentren en la atención directa y emocional.
 Sustituir entretenimiento pasivo por entretenimiento interactivo: En lugar de simplemente mostrar televisión o música, la IA podría generar actividades interactivas y adaptadas a los intereses del anciano, promoviendo una mayor participación y estimulación mental.
 
-## **C - Combinar (Combine)**
+### **C - Combinar (Combine)**
 Combinar terapia cognitiva y emocional: La IA podría integrar ejercicios de estimulación cognitiva con elementos de terapia emocional, creando actividades que no solo mejoren la memoria y la agilidad mental, sino que también refuercen el bienestar emocional.
 Combinar tecnología de reconocimiento de voz y emoción: Implementar tecnologías de reconocimiento de voz y análisis de emociones para que la IA pueda ajustar su tono y contenido según el estado de ánimo del usuario, ofreciendo una interacción más humana y sensible.
 
-## **A - Adaptar (Adapt)**
+### **A - Adaptar (Adapt)**
 Adaptar la IA a las necesidades culturales y lingüísticas: Asegurarse de que la IA pueda ser adaptada para diferentes culturas, dialectos, y tradiciones, permitiendo a los ancianos sentirse más comprendidos y cómodos en sus interacciones.
 Adaptar las funcionalidades a distintos niveles de deterioro cognitivo: La IA podría ajustar automáticamente la complejidad de las actividades y la interacción según el nivel de cognición del anciano, ofreciendo apoyo adecuado en cada etapa.
 
-## **M - Modificar (Modify)**
+### **M - Modificar (Modify)**
 Modificar la apariencia y voz de la IA: Personalizar la apariencia y la voz del asistente virtual para que se asemeje a alguien cercano al anciano o a una figura de confianza, haciendo la interacción más cálida y familiar.
 Modificar la estructura de las actividades: Incorporar elementos de gamificación en las actividades, como recompensas y desafíos, para motivar a los ancianos a participar activamente y disfrutar de las tareas diarias.
 
-## **P - Poner en otros usos (Put to another use)**
+### **P - Poner en otros usos (Put to another use)**
 Usar la IA para la rehabilitación post-hospitalaria: Extender el uso de la IA para asistir en la rehabilitación física y cognitiva después de una hospitalización, generando programas personalizados de ejercicios y seguimiento.
 Usar la IA como una herramienta de educación familiar: La IA podría generar informes y recomendaciones para familiares sobre cómo mejorar la interacción con los ancianos, ayudando a fortalecer los lazos familiares.
 
-## **E - Eliminar (Eliminate)**
+### **E - Eliminar (Eliminate)**
 Eliminar la dependencia total de la intervención humana en tareas simples: Confiar en la IA para manejar tareas simples y repetitivas, eliminando la necesidad de intervención humana constante en estas áreas, lo que podría reducir la carga sobre los cuidadores.
 Eliminar el aislamiento social mediante la creación de redes virtuales: Crear plataformas sociales donde los ancianos puedan conectarse con otros usuarios o incluso con voluntarios jóvenes, eliminando el sentimiento de soledad e aislamiento.
 
-## **R - Reorganizar (Rearrange)**
+### **R - Reorganizar (Rearrange)**
 Reorganizar la estructura de interacción de la IA: En lugar de una interacción pasiva, reorganizar la IA para que actúe proactivamente, iniciando conversaciones y actividades basadas en la detección de estados emocionales y niveles de energía.
 Reorganizar el flujo de información entre IA y cuidadores: Crear un sistema donde la IA genere resúmenes diarios o semanales que se envíen automáticamente a los cuidadores y familiares, reorganizando la manera en que se comunica el estado del anciano.
 
