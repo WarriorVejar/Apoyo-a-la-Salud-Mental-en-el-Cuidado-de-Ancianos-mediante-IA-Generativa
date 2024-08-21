@@ -5,6 +5,7 @@
 ### **Salud:** Apoyo a la Salud Mental en el Cuidado de Ancianos mediante IA Generativa
 
 **Problema:** Los ancianos a menudo experimentan soledad y deterioro cognitivo, con acceso limitado a apoyo emocional continuo y personalizado.
+
 **Beneficio de la IA Generativa:** La IA puede ofrecer interacción personalizada y monitoreo emocional constante, mejorando el bienestar emocional y detectando problemas de salud mental de manera temprana.
 
 ## **Alcance**
