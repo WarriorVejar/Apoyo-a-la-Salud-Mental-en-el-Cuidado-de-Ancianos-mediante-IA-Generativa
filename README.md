@@ -242,7 +242,7 @@ _"Era una tarde soleada en la pequeña casa de campo. Los árboles estaban lleno
 Diseño de la Interfaz de Usuario (UI): Utilizando una herramienta como MidJourney o Adobe Firefly, podríamos crear bocetos y conceptos de la interfaz de usuario para la aplicación. La interfaz debe ser intuitiva, con botones grandes y fáciles de usar, y colores suaves que no resulten abrumadores para los ancianos.
 
 **Propuesta de Prompt para Adobe Firefly:**
-vbnet
+planetext
 Copy code
 Task: Create a user-friendly interface design for an elderly care app.
 Context: The app is meant to support mental well-being through personalized AI interactions.
