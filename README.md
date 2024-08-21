@@ -59,39 +59,39 @@ La implementación de la IA generativa en el cuidado de la salud mental de los a
 
 ## **Técnica Lluvia de Ideas:**
 
-## **1. Funcionalidades Clave**
+### **1. Funcionalidades Clave**
 Interacción Personalizada: Crear un asistente virtual que interactúe diariamente con los ancianos, generando conversaciones empáticas y personalizadas según el estado emocional del usuario.
 Monitoreo de Estado de Ánimo: Implementar un sistema que detecte cambios en el estado emocional del anciano y envíe alertas a los cuidadores o familiares en caso de identificar signos de depresión o ansiedad.
 Actividades Cognitivas Adaptativas: Generar ejercicios mentales, juegos y actividades que se ajusten al nivel cognitivo y preferencias del anciano, con progresión en dificultad.
 Socialización Virtual: Desarrollar una plataforma donde los ancianos puedan interactuar con otros usuarios a través de videochats, juegos grupales y clubs de lectura virtuales.
 Gestión de Rutinas: Crear recordatorios personalizados para tomar medicamentos, realizar ejercicio, y participar en actividades recreativas, con adaptaciones según el nivel de energía del día.
 
-## **2. Características Emocionales**
+### **2. Características Emocionales**
 Compañerismo Virtual: Diseñar un asistente que actúe como un compañero constante, ofreciendo apoyo emocional a través de conversaciones y generando un sentido de compañía y seguridad.
 Historias Personalizadas: Crear narrativas que reflejen las experiencias y recuerdos del anciano, ayudando a reforzar su identidad y sentido de pertenencia.
 Terapia del Recuerdo: Implementar una función donde el asistente puede recuperar recuerdos felices y presentarlos en forma de fotos, videos o historias para mejorar el ánimo del usuario.
 
-## **3. Usabilidad y Acceso**
+### **3. Usabilidad y Acceso**
 Interfaz Intuitiva: Desarrollar una interfaz simple y accesible, adecuada para usuarios mayores, con comandos de voz para facilitar la interacción.
 Acceso Multicanal: Permitir el acceso al asistente a través de diferentes dispositivos como tablets, teléfonos móviles, y altavoces inteligentes.
 Integración con Servicios de Salud: Conectar la IA con profesionales de salud mental y servicios de emergencia para intervención rápida en caso necesario.
 
-## **4. Personalización y Adaptabilidad**
+### **4. Personalización y Adaptabilidad**
 Adaptación Continua: Utilizar la IA para aprender continuamente sobre las preferencias y cambios en el comportamiento del anciano, ajustando las interacciones y actividades de manera dinámica.
 Perfil Personalizado: Crear un perfil individual para cada usuario que capture su historial de salud, preferencias, y nivel cognitivo, asegurando una experiencia realmente personalizada.
 Cultura y Lenguaje: Asegurar que la IA sea culturalmente sensible y pueda operar en múltiples idiomas y dialectos, considerando las tradiciones y valores de cada usuario.
 
-## **5. Impacto en los Cuidadores**
+### **5. Impacto en los Cuidadores**
 Reducción de la Carga Laboral: Ofrecer soporte emocional y operativo continuo a los ancianos, permitiendo que los cuidadores se concentren en tareas más críticas.
 Informes Automatizados: Generar informes regulares sobre el estado emocional y cognitivo del anciano para los cuidadores, facilitando un seguimiento más detallado.
 Capacitación para Cuidadores: Desarrollar módulos de formación para los cuidadores que les enseñen cómo aprovechar al máximo las funcionalidades de la IA generativa.
 
-## **6. Expansión y Escalabilidad**
+### **6. Expansión y Escalabilidad**
 Versión Freemium: Lanzar una versión básica gratuita para pruebas con funcionalidades limitadas, con la opción de suscripción para servicios premium más avanzados.
 Red de Soporte: Crear una red de soporte técnico y emocional para ayudar a las familias y cuidadores a implementar y utilizar la IA en el cuidado de los ancianos.
 Colaboración con Residencias de Ancianos: Establecer alianzas con residencias y centros de cuidado de ancianos para integrar esta tecnología en su rutina diaria.
 
-## **7. Consideraciones Éticas**
+### **7. Consideraciones Éticas**
 Privacidad y Seguridad: Asegurar que todos los datos del usuario se manejen de forma segura y privada, cumpliendo con las normativas legales vigentes.
 Transparencia en la Interacción: Desarrollar la IA para que sea transparente en su funcionamiento, explicando claramente sus acciones y decisiones al usuario y a los cuidadores.
 Control Humano: Mantener siempre la posibilidad de intervención humana, asegurando que la IA actúe como un apoyo y no como un reemplazo del cuidado humano.
