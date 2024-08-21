@@ -268,7 +268,7 @@ Sección de “Recordatorios” con un calendario simple.
 “Historias” o “Memorias” para revisar momentos importantes.
 Botón de “Asistencia” para contacto rápido con familiares o cuidadores.
 
-### **4. Generación de Código (si es aplicable)**
+### **4. Generación de Código**
 Desarrollo Inicial del Asistente Virtual: Podríamos utilizar plataformas de desarrollo de chatbots, como Rasa o Dialogflow, para empezar a construir la lógica del asistente virtual. El código puede incluir respuestas predefinidas y conexiones con bases de datos para almacenar las preferencias y datos emocionales de los usuarios.
 Ejemplo de Código:
 python
