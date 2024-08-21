@@ -242,27 +242,32 @@ _"Era una tarde soleada en la pequeña casa de campo. Los árboles estaban lleno
 Diseño de la Interfaz de Usuario (UI): Utilizando una herramienta como MidJourney o Adobe Firefly, podríamos crear bocetos y conceptos de la interfaz de usuario para la aplicación. La interfaz debe ser intuitiva, con botones grandes y fáciles de usar, y colores suaves que no resulten abrumadores para los ancianos.
 
 **Propuesta de Prompt para Adobe Firefly:**
-planetext
-Copy code
+## **Creación de Imágenes o Diseños**
+
+### **Diseño de la Interfaz de Usuario (UI):**
+- Utilizando herramientas como **MidJourney** o **Adobe Firefly**, podríamos crear bocetos y conceptos de la interfaz de usuario para la aplicación. La interfaz debe ser intuitiva, con botones grandes y fáciles de usar, y colores suaves que no resulten abrumadores para los ancianos.
+
+**Propuesta de Prompt para Adobe Firefly:**
+```plaintext
 Task: Create a user-friendly interface design for an elderly care app.
 Context: The app is meant to support mental well-being through personalized AI interactions.
 Exemplar: Large, easily readable text, simple navigation, soft color palette.
 Persona: Elderly users with minimal tech experience.
 Format: Digital interface mockup.
 Tone: Warm, welcoming, and easy to navigate.
+```
 
 
 **Generación de Avatares o Personajes:** Crear avatares personalizados que representen al asistente virtual. Estos avatares podrían tener una apariencia amigable y accesible, tal vez inspirados en figuras familiares o personajes animados reconfortantes.
 Propuesta de Prompt para MidJourney:
-vbnet
-Copy code
+```plaintext
 Task: Design a friendly avatar for an AI virtual assistant.
 Context: The avatar will interact with elderly users, providing emotional and cognitive support.
 Exemplar: Soft, approachable character with a warm expression, dressed in cozy attire.
 Persona: Elderly individuals seeking comfort and companionship.
 Format: 3D character design, digital rendering.
 Tone: Gentle, friendly, and reassuring.
-
+```
 
 ### **3. Desarrollo de Conceptos de Interfaz de Usuario**
 Wireframes y Prototipos de la App: Utilizando herramientas como Figma o Adobe XD, podemos desarrollar wireframes y prototipos de la interfaz de usuario. Estos prototipos mostrarán cómo los usuarios navegarían por la app, interactuarían con el asistente, y accederían a sus actividades personalizadas.
