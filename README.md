@@ -225,9 +225,13 @@ Dado que la plataforma alivia la carga de los cuidadores, es probable que estos 
 Diálogos Personalizados para el Asistente Virtual: Usando una IA de generación de texto como GPT-4, podemos crear diálogos personalizados que el asistente virtual utilizará para interactuar con los ancianos. Estos diálogos pueden adaptarse según el estado emocional del usuario.
 
 ### **Ejemplo de Diálogo:**
+
 **Asistente:** _"Buenos días, Marta. Hoy parece que estás un poco pensativa. ¿Te gustaría que hiciéramos un ejercicio de memoria juntos o prefieres escuchar una historia de tus tiempos favoritos?"_
+
 **Usuario:** _"Creo que prefiero escuchar una historia."_
+
 **Asistente:** _"¡Perfecto! ¿Qué te parece si recordamos ese viaje que hiciste a la playa cuando eras joven? Siempre te hace sonreír recordar esos días."_
+
 **Narrativas Terapéuticas:** Crear narrativas que el asistente pueda utilizar para ayudar a los ancianos a relajarse o reflexionar sobre momentos felices de su vida. Estas narrativas pueden ser generadas automáticamente según las preferencias del usuario.
 
 Ejemplo de Narrativa:
